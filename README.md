@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29936949/README.md)
 # Analisis Data Kesehatan Masyarakat — Data Mining & Business Intelligence
 
 Proyek Tugas Akhir mata kuliah **Data Mining** yang melakukan proses *data mining* menyeluruh terhadap data survei kesehatan (SRQ 2023) untuk menggali *insight* seputar **kesehatan mental**, **obesitas**, dan **pola penyakit kronis/infeksi** di masyarakat.
